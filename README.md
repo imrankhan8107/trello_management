@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Project: Trello Management
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Trello management is a react frontend application, consisting of three swimlanes
+
+## Swimlanes are Todo, Inprogress, Done
+
+For state management, React Context API was used.
+The drag and drop feature is implemented across the swimlanes using basic HTML and Javascript.
+
+# Requirements:
+
+    - Make trello management using React
+    - Using Drag and drop, move tasks across swimlanes
+    - Deploy.
+
+# Instructions to run Project
 
 ## Available Scripts
 
