@@ -16,6 +16,11 @@ The drag and drop feature is implemented across the swimlanes using basic HTML a
 # Instructions to run Project
 
 ## Available Scripts
+To import Project directory:
+`git clone https://github.com/imrankhan8107/rick-morty-app.git`
+
+After importing, run the command:
+`npm install`  => this is to install the node modules
 
 In the project directory, you can run:
 
